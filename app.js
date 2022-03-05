@@ -1,6 +1,5 @@
 const Joi = require('joi')
 const exprees = require('express');
-const {request, response} = require("express");
 const app = exprees();
 
 
